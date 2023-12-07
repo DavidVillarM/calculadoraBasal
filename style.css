@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
 body{
-    background: #f6f5f7;
+    background: #16ffff;
+    align-content: center;
+    background-image: url("heartbeat_1_Regular.gif");
+    background-size: cover;
+    height: auto;
+    background-repeat: no-repeat;
     font-family: 'Montserrat', sans-serif;
     color:#3e363f;
+
 }
 
 h1 {
@@ -67,6 +73,10 @@ button{
     text-transform: uppercase;
     letter-spacing: 1px;
     transition: transform 20ms ease-in;
+}
+
+button:active {
+    transform: scale(0.95);
 }
 
 button:active {
