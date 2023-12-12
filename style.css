@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 
 body{
-    background: #16ffff;
+    background: #003842;
     align-content: center;
     background-image: url("heartbeat_1_Regular.gif");
     background-size: cover;
@@ -13,7 +13,7 @@ body{
 }
 
 h1 {
-    color: blue;
+    color: rgb(255, 255, 255);
 }
 
 #contenedor{
