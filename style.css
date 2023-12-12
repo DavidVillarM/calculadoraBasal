@@ -16,6 +16,12 @@ h1 {
     color: rgb(255, 255, 255);
 }
 
+p{
+    color:#003842;
+}
+
+
+
 #contenedor{
     width: 900px;
     height: 500px;
@@ -31,7 +37,7 @@ h1 {
 }
 
 #calculadora{
-    background: white;
+    background: rgb(255, 255, 255);
     /*Con estas 3 lineas vamos a hacer que los divs queden lado a lado*/
     width: 50%;
     height: 100%;
@@ -39,7 +45,7 @@ h1 {
 }
 
 #detalle{
-    background: #FF416C;
+    background: #004b44;
     /*Con estas 3 lineas vamos a hacer que los divs queden lado a lado*/
     width: 50%;
     height: 100%;
@@ -67,8 +73,8 @@ button{
     font-weight: bold;
     padding: 12px 45px;
     border-radius: 30px;
-    background-color: #FF416C;
-    border: 1px solid #FF416C;
+    background-color: #003842;
+    border: 1px solid #003842;
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 1px;

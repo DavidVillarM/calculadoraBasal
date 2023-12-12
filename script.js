@@ -1,4 +1,3 @@
-
 let form = document.getElementById('calculadora');
 form.style.background = 'white';
 
@@ -73,5 +72,3 @@ function calcFlujo(peso){
     flujo = Math.round(cc / 24);
     return flujo;
 }
-
-
